@@ -1,1 +1,1 @@
-This is the "snake game" game developed with the support of library pygame and random.
+This is the "snake game" developed with the support of library pygame and random.
